@@ -45,3 +45,6 @@ Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a>
   <img src="https://github-readme-stats.vercel.app/api?username=victorcmarinho&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="victorcmarinho" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcmarinho&layout=compact&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="Top langs" />
 </p>
+
+[![](https://github.com/victorcmarinho/victorcmarinho/blob/master/dino.gif)](#)
+
