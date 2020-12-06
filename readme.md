@@ -4,6 +4,14 @@
 
 Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a> 
 
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://zappts.com">Zappts</a>.</li>
+<li>🧐 Learning about <strong>server side architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/victorcmarinho?tab=repositories">Github</a>.</li>
+<!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
+</ul>
+
 **Languages and Tools 🚀**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -41,6 +49,7 @@ Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 
 
+# Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorcmarinho&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="victorcmarinho" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcmarinho&layout=compact&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="Top langs" />
