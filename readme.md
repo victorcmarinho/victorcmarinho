@@ -55,3 +55,5 @@ Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a>
 
 [![](https://github.com/victorcmarinho/victorcmarinho/blob/master/dino.gif)](#)
 
+<a href="https://app.daily.dev/victorcmarinho"><img src="https://api.daily.dev/devcards/146d64d217914cb48f964a5466c7524a.png?r=zhp" width="400" alt="Victor Vinícius de Carvalho Marinho's Dev Card"/></a>
+
