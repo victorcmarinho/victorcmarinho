@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/victorcmarinho/) 
 
-Software engineer at <a href="https://zappts.com" target="_blank">Zappts</a> 
+Software engineer at <a href="https://reclameaqui.com.br" target="_blank">Reclameaqui</a> 
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://zappts.com">Zappts</a>.</li>
+<li>🔭 I’m currently working on <a href="https://reclameaqui.com.br">Reclameaqui</a>.</li>
 <li>🧐 Learning about <strong>server side architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/victorcmarinho?tab=repositories">Github</a>.</li>
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
